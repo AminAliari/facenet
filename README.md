@@ -33,10 +33,7 @@ or
 ```
 
 ## Dataset
-The dataset can be downloaded from [here](https://drive.google.com/file/d/1c8kcpSZYNAkxJHJ6dNpL3y85ynTBVpB7/view) (11 GB). It must be placed under the `data` folder. For example, training data would be at `data/train`.
-
-**Important Notice**: This dataset has been **solely** used for educational purposes and must **not** be shared publicly as all rights belong to *Guo Zhiqing*.
-
+The dataset is not publicly available and can be requested from [here](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset).
 
 ## Training
 
