@@ -84,7 +84,7 @@ class FaceDataset(torch.utils.data.Dataset):
         >>> dataset = FaceDataset(root_dir='data/samples', img_dim=(256, 256))
         >>> loader = dataset.get_data_loader(batch_size=1, use_shuffle=False)
         >>> len(loader)
-        128
+        0
 
         Returns
         ---------
