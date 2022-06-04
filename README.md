@@ -49,7 +49,7 @@ The trained model along with training and validation loss histories would be sav
 At the end of each epoch, if the new weights achieve a lower validation loss, we would save that model. Each epoch should take about *15* minutes with `RTX3070`. 
 
 ## Testing and Evaluation
-The project notebook can be accessed from [here](https://colab.research.google.com/drive/1DtZYupCvvUbvZ6ONpu_UXX0tNtnZ1c9P?usp=sharing). It contains all of the testing and evaluation codes along with various figures such as confusion matrices.  Running this notebook should give the expected result and is pretty much self-explanatory.
+The project notebook can be accessed from [here](https://github.com/AminAliari/facenet/blob/main/tests/notebook_real_face_detector.ipynb). It contains all of the testing and evaluation codes along with various figures such as confusion matrices.  Running this notebook should give the expected result and is pretty much self-explanatory.
 
 ## References
 We follow the [SpeachBrain](https://github.com/speechbrain/speechbrain) guidelines for project structure, unit tests, documentation, formatting, and GitHub CI. *SpeachBrain* deployment code has also been **directly** used in this project.
