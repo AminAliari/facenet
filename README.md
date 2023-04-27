@@ -1,8 +1,12 @@
+<div align="center">
+
 # Real Face Detector - COMP6321
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AminAliari/facenet/blob/main/tests/notebook_real_face_detector.ipynb)
 
 ![](https://github.com/AminAliari/facenet/blob/main/figs/1.png)
+
+</div>
 
 ## Project Structure
 Here is our project folder structure and files with their descriptions.
